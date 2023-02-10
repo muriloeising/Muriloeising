@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## comecei a aprender a programar em 2022 por interresse em saber como funcionava a programação .
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloeising&count_private=true)
+
+![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloeising&count_private=true)
