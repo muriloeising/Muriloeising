@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ ## ainda aprendendo a programar, começei em 2022 por intersesse em saber como funcionava a programação
+ [![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloeising&theme=highcontrast)](https://github.com/muriloeising)
+ 
+ ![Murilo GitHub stats](https://github-readme-stats.vercel.app/api?username=muriloeising&hide=contribs,prs)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/muriloeising)
